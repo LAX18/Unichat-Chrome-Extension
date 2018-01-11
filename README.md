@@ -1,2 +1,1 @@
-# Unichat-Chrome-Extension
-This is the OFFICIAL CHROME EXTENSION OF UNICHAT
+This is the repository for the planned future Unichat Chrome Extension
