@@ -2,8 +2,12 @@
   "manifest_version": 2,
 
   "name": "Unichat",
-  "description": "This starts unichat",
+  "description": "This Starts the Unichat Extension Popup",
   "version": "1.0",
+   "icons": {
+    "128": "7POdNS3.png"
+  },
+
 
   "browser_action": {
     "default_icon": "7POdNS3.png",
