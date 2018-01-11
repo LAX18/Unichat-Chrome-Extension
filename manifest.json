@@ -2,8 +2,8 @@
   "manifest_version": 2,
 
   "name": "Unichat",
-  "description": "This Starts the Unichat Extension Popup",
-  "version": "1.4",
+  "description": "This is the Unichat Popup",
+  "version": "1.4.1",
    "icons": {
     "128": "7POdNS3.png"
   },
