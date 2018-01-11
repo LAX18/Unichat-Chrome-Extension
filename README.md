@@ -1,1 +1,1 @@
-This is the repository for the planned future Unichat Chrome Extension
+This is the repository for the Unichat Chrome Extension
