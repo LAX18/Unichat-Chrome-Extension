@@ -3,7 +3,7 @@
 
   "name": "Unichat",
   "description": "This Starts the Unichat Extension Popup",
-  "version": "1.1",
+  "version": "1.2",
    "icons": {
     "128": "7POdNS3.png"
   },
